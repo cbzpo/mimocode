@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+instance/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.log
+
+# MiMoCode internal
+.mimocode/
+.opencode/
+
+# Large files
+*.zip
+*.bmp
